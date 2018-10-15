@@ -1,0 +1,26 @@
+{
+  "name": "diyi",
+  "version": "0.0.1",
+  "description": "你好哈",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongwenjieyes/demo-001.git"
+  },
+  "keywords": [
+    "h"
+  ],
+  "author": "dwj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongwenjieyes/demo-001/issues"
+  },
+  "homepage": "https://github.com/dongwenjieyes/demo-001#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^1.12.1"
+  }
+}
